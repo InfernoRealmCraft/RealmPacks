@@ -4,7 +4,7 @@
 
 [![RealmCraft](https://img.shields.io/badge/RealmCraft-Creator%20Community-55aa55?style=for-the-badge)](#)
 [![Packs](https://img.shields.io/badge/Packs-Editing%20%26%20Thumbnails-ffaa00?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/github/stars/Inferno2137/RealmPacks?style=for-the-badge\&label=Stars)](#)
+[![GitHub](https://img.shields.io/github/stars/InfernoRealmCraft/RealmPacks?style=for-the-badge\&label=Stars)](#)
 
 > 🧱 **Build better videos. Create better thumbnails. Level up your content.**
 
